@@ -1,0 +1,5 @@
+C:\Users\musta\Documents\UdemyWebProgramlama\.net core- c#\Interface-Repo\obj\Debug\net7.0\Interface-Repo.csproj.AssemblyReference.cache
+C:\Users\musta\Documents\UdemyWebProgramlama\.net core- c#\Interface-Repo\obj\Debug\net7.0\Interface-Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Documents\UdemyWebProgramlama\.net core- c#\Interface-Repo\obj\Debug\net7.0\Interface-Repo.AssemblyInfoInputs.cache
+C:\Users\musta\Documents\UdemyWebProgramlama\.net core- c#\Interface-Repo\obj\Debug\net7.0\Interface-Repo.AssemblyInfo.cs
+C:\Users\musta\Documents\UdemyWebProgramlama\.net core- c#\Interface-Repo\obj\Debug\net7.0\Interface-Repo.csproj.CoreCompileInputs.cache
